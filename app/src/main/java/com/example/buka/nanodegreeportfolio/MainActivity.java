@@ -13,12 +13,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button popularMoviesButton =  (Button)findViewById(R.id.popular_movies_button);
+        /*Button popularMoviesButton =  (Button)findViewById(R.id.popular_movies_button);
         Button stockHawkButton = (Button) findViewById(R.id.stock_hawk_button);
         Button buildItBiggerButton = (Button) findViewById(R.id.build_bigger_button);
         Button makeYourAppMaterialButton = (Button) findViewById(R.id.make_material_button);
         Button goUbuquitousButton = (Button) findViewById(R.id.go_ubiquitous_button);
-        Button capstoneButton = (Button) findViewById(R.id.capstone_button);
+        Button capstoneButton = (Button) findViewById(R.id.capstone_button);*/
 
     }
 
